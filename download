@@ -1,0 +1,9 @@
+# Ne jamais publier de données clients
+*.msg
+*.eml
+Liasse_mails_*.pdf
+donnees/
+tests/donnees/
+__pycache__/
+.venv/
+.streamlit/secrets.toml
